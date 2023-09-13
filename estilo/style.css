@@ -21,6 +21,7 @@ header {
 
 header > h1 {
     padding-top: 60px;
+    font-variant: small-caps;
     text-align: center;
     font-size: 9vh;
     font-family: var(--fonte-destaque);    
